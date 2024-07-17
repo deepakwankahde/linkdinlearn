@@ -1,0 +1,57 @@
+[33mcommit de7c5014d1d5088a03a58701abbb6aed8ee7f9c9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: deepakwankahde <62808088+deepakwankahde@users.noreply.github.com>
+Date:   Sat Jul 13 09:00:33 2024 +0530
+
+    Create FilrFromGitHub
+
+[33mcommit 9572756ffd8d4b51ee54cc701b715022aac02334[m
+Merge: ffbffe8 1109bfc
+Author: Deepak Wankhade <deepakwankhade@gmail.com>
+Date:   Sat Jul 13 08:24:01 2024 +0530
+
+    Merge branch 'dev'
+    ok
+
+[33mcommit 1109bfc97d01969f85e1c104d8bc8fb0dc453751[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Merge: 5c0e800 124b238
+Author: Deepak Wankhade <deepakwankhade@gmail.com>
+Date:   Sat Jul 13 08:21:18 2024 +0530
+
+    Merge branch 'test' into dev
+    ok
+
+[33mcommit 124b23892c616060e17ea320db7f354fbc4dea76[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: Deepak Wankhade <deepakwankhade@gmail.com>
+Date:   Sat Jul 13 08:18:15 2024 +0530
+
+    modified and added new file3
+
+[33mcommit ffbffe8316c7df0089cbe1a64486866a3a5b3084[m
+Author: Deepak Wankhade <deepakwankhade@gmail.com>
+Date:   Sat Jul 13 08:13:20 2024 +0530
+
+    Modilfied test set up and file and added new file2
+
+[33mcommit 5c0e8000b9a82943761184c811b6a601d119188d[m
+Author: Deepak Wankhade <deepakwankhade@gmail.com>
+Date:   Sat Jul 13 08:10:51 2024 +0530
+
+    Modifed ToolsDEmoQA file and added 1file
+
+[33mcommit 38186682ca9e45baf2bc25f19568173b020a5f8e[m
+Author: Deepak Wankhade <deepakwankhade@gmail.com>
+Date:   Fri Jul 12 19:50:58 2024 +0530
+
+    modified file and 3 files added
+
+[33mcommit 9e271f92e99840566c8cc84e964c6eae46a9788c[m
+Author: Deepak Wankhade <deepakwankhade@gmail.com>
+Date:   Fri Jul 12 19:45:15 2024 +0530
+
+    defect 2fixed in file explicit example file
+
+[33mcommit 47116e820f6f97bac5d82bf82c45e34a26720874[m
+Author: Deepak Wankhade <deepakwankhade@gmail.com>
+Date:   Fri Jul 12 19:07:16 2024 +0530
+
+    Fixed defect id for arraly list symbol
